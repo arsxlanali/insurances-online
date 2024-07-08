@@ -1,0 +1,165 @@
+{
+	"levelnine": [
+		{
+			"insurerId": "1",
+			"questionId": "agentConfirmation",
+			"value": "true"
+		},
+		{
+			"insurerId": "1",
+			"questionId": "declarationOfConsentAndReleaseFromConfidentiality",
+			"value": "true"
+		},		
+		{
+			"insurerId": "1",
+			"questionId": "AF_AD_0004",
+			"value": "true"
+		},
+		{
+			"insurerId": "1",
+			"questionId": "AF_AD_0003",
+			"value": "wird vom Kunden gewünscht"
+		},
+		{
+			"insurerId": "1",
+			"questionId": "AF_AD_0002",
+			"value": "vor Unterschrift des Antrags gewünscht"
+		},
+		{
+			"insurerId": "1",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},		
+		{
+			"insurerId": "7",
+			"questionId": "agentConfirmation",
+			"value": "true"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0004",
+			"value": "true"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0003",
+			"value": "wird vom Kunden gewünscht"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0002",
+			"value": "vor Unterschrift des Antrags gewünscht"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "agentConfirmation",
+			"value": "true"
+		},
+				{
+			"insurerId": "37",
+			"questionId": "AF_AD_0003",
+			"value": "wird vom Kunden gewünscht"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "AF_AD_0002",
+			"value": "vor Unterschrift des Antrags gewünscht"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "AF_AD_0004",
+			"value": "true"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},
+		{
+			"insurerId": "36",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},
+		{
+			"insurerId": "21",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		}
+	],
+	"sdk": [
+		{
+			"insurerId": "36",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},
+		{
+			"insurerId": "36",
+			"questionId": "policyHolderIsEqualInsuredPerson",
+			"value": "true"
+		}	
+	],
+	"hallesche": [
+		{
+			"insurerId": "21",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		}
+	],
+	"vmk": [
+		{
+			"insurerId": "7",
+			"questionId": "agentConfirmation",
+			"value": "true"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0004",
+			"value": "true"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0003",
+			"value": "wird vom Kunden gewünscht"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "AF_AD_0002",
+			"value": "vor Unterschrift des Antrags gewünscht"
+		},
+		{
+			"insurerId": "7",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "agentConfirmation",
+			"value": "true"
+		},
+				{
+			"insurerId": "37",
+			"questionId": "AF_AD_0003",
+			"value": "wird vom Kunden gewünscht"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "AF_AD_0002",
+			"value": "vor Unterschrift des Antrags gewünscht"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "AF_AD_0004",
+			"value": "true"
+		},
+		{
+			"insurerId": "37",
+			"questionId": "confirmDataProtection",
+			"value": "true"
+		}
+	]
+}

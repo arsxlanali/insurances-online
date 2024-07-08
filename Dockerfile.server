@@ -1,0 +1,13 @@
+FROM node:18-alpine as builder
+# Set the working directory to /app inside the container
+
+
+WORKDIR /server
+# Copy app files
+COPY server /server
+# Install dependencies (npm ci makes sure the exact versions in the lockfile gets installed)
+RUN npm i -force
+
+RUN echo "fs.inotify.max_user_watches=524288" >> /etc/sysctl.conf
+
+CMD npm run start

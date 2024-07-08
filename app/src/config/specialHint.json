@@ -1,0 +1,30 @@
+[
+    {
+        "insurerId": "20",
+        "tariffType": "Stationär",
+        "blocksNextStep": true,
+        "tariffId": null,
+        "specialHint": "Bitte beachten Sie, dass der Abschluss der stationären Zusatztarife der Gothaer nicht über diesen Abschlusslink möglich ist, da der Versicherer eine digitale Unterschrift verlangt. Bitte wenden Sie sich an Ihren Vermittler."
+    },
+    {
+        "insurerId": "3",
+        "tariffType": "Stationär",
+        "blocksNextStep": true,
+        "tariffId": null,
+        "specialHint": "Bitte beachten Sie, dass der Abschluss der stationären Zusatztarife der Arag nicht über diesen Abschlusslink möglich ist, da der Versicherer eine digitale Unterschrift verlangt. Bitte wenden Sie sich an Ihren Vermittler."
+    },
+    {
+        "insurerId": "37",
+        "tariffType": "Stationär",
+        "blocksNextStep": false,
+        "tariffId": "UKVKlinikPRIVAT_Unfall#",
+        "specialHint": "Bitte beachten Sie, dass der Abschluss mit einem Monatsbeitrag von weniger als 5€ über diese Abschlusstrecke nicht möglich ist. Bitte wenden Sie sich in einem solchen Fall an Ihren Vermittler."
+    },
+    {
+        "insurerId": "7",
+        "tariffType": "Stationär",
+        "blocksNextStep": false,
+        "tariffId": "BAYKlinikPRIVAT_Unfall#",
+        "specialHint": "Bitte beachten Sie, dass der Abschluss mit einem Monatsbeitrag von weniger als 5€ über diese Abschlusstrecke nicht möglich ist. Bitte wenden Sie sich in einem solchen Fall an Ihren Vermittler."
+    }
+]

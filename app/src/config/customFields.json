@@ -1,0 +1,21 @@
+{
+   "sdk": [
+      {
+         "id": "gvpNumber",
+         "label": "Gruppenvertragsnummer",
+         "type": "String",
+         "mandatory": false,
+         "backendField": "gruppenvertragVertragsnummer"
+      },
+      {
+         "id": "bankNumber",
+         "label": "Banknummer",
+         "type": "String",
+         "mandatory": false,
+         "backendField": "gruppenvertragBanknummer"
+      }
+   ],
+   "vmk": [],
+   "hallesche": [],
+   "levelnine": []
+}

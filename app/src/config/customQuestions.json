@@ -1,0 +1,93 @@
+{
+   "sdk": [
+      {
+         "id": "adviceInformation",
+         "expChild": null,
+         "expChildCheckPositive": true,
+         "expChildOr": null,
+         "dateCompareResut": null,
+         "parentQuestion": null,
+         "questionKo": false,
+         "questionMandatory": false,
+         "visible": true,
+         "readonly": true,
+         "computed": false,
+         "expComputation": null,
+         "computedErrorString": null,
+         "childQuestionary": null,
+         "flatQuestions": null,
+         "childFormType": null,
+         "pixelHeight": 0,
+         "html": true,
+         "questionText": "<br><b>Beratung:</b><br><br>Möchten Sie sich beraten lassen?<br>Gerne beraten wir Sie online, telefonisch oder persönlich.<br>Sie erreichen uns unter <span style=\"text-decoration: underline; color: #0000EE; cursor: pointer\" onclick=\"window.handleOpenFab && window.handleOpenFab()\">diesen Kontaktdaten</span>",
+         "helpText": null,
+         "answer": {
+            "parentQuestion": null,
+            "answerType": "Label",
+            "expValidation": null,
+            "maxValue": null,
+            "minValue": null,
+            "formatString": null,
+            "errorMessage": null,
+            "orientation": "Horizontal",
+            "dialekt": null,
+            "document": null,
+            "documentTransfer": null,
+            "picks": null
+         },
+         "infoText": "",
+         "minValue": null,
+         "maxValue": null,
+         "regExp": false
+      },
+      {
+         "id": "avoidAdvice",
+         "expChild": null,
+         "expChildCheckPositive": true,
+         "expChildOr": null,
+         "dateCompareResut": null,
+         "parentQuestion": null,
+         "questionKo": false,
+         "questionMandatory": true,
+         "visible": true,
+         "readonly": false,
+         "computed": false,
+         "expComputation": null,
+         "computedErrorString": null,
+         "childQuestionary": null,
+         "flatQuestions": null,
+         "childFormType": null,
+         "pixelHeight": 0,
+         "html": true,
+         "questionText": "<b>Beratungsverzicht:</b><br><br>Im Zuge des Onlineantrages verzichte ich auf die angebotene fachliche Beratung und deren Dokumentation. Mir ist bewusst, welche Bedeutung einer Beratung in Versicherungsfragen zukommt und, dass sich der Verzicht nachteilig darauf auswirken kann, zu einem späteren Zeitpunkt Schadensersatzansprüche gegen den Versicherer geltend zu machen.",
+         "helpText": null,
+         "answer": {
+            "parentQuestion": null,
+            "answerType": "Radio",
+            "expValidation": null,
+            "maxValue": null,
+            "minValue": null,
+            "formatString": null,
+            "errorMessage": "Bitte dem Beratungsverzicht zustimmen!",
+            "orientation": "Horizontal",
+            "dialekt": null,
+            "document": null,
+            "documentTransfer": null,
+            "picks": [
+               {
+                  "id": "true",
+                  "name": "Zugestimmt",
+                  "secondaryName": null
+               }
+            ]
+         },
+         "infoText": "",
+         "minValue": null,
+         "maxValue": null,
+         "regExp": false
+      }
+   ],
+   "vmk": [],
+   "hallesche": [],
+   "levelnine": []
+}

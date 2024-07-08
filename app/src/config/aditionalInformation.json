@@ -1,0 +1,14 @@
+[
+  {
+    "questionId": "AF_AD_0001",
+    "informationText": "Mit einer Schweigepflichtentbindungserklärung gestattet es ein Versicherungsnehmer der Assekuranz, Informationen bei Ärzten (und anderen Stellen) einzuholen. Wenn der Versicherer eine entsprechende Anforderung verschickt, legt er die Entbindungserklärung bei, sodass der Mediziner die Fragen umgehend beantworten kann. Versicherungen sind dazu verpflichtet, Versicherungsnehmer über jede Datenabfrage zu informieren."
+  },
+  {
+    "questionId": "F3",
+    "informationText": "Other text"
+  },
+  {
+    "questionId": "confirmDataProtection",
+    "informationText": "Other text"
+  }
+]
