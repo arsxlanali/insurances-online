@@ -55,7 +55,6 @@ const getComponent: Record<ComponentKey, React.ReactNode> = {
 function App() {
   const [open, setOpen] = useState(false);
   const [openDialog, setOpenDialog] = useState(true);
-  // const [showBackdrop, setShowBackdrop] = useState(true);
 
   const { steps } = useAppSelector((state) => state.stepper);
   const mandant = queryParams.get('mandant') ?? defaultMandant;
