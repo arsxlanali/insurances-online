@@ -8,7 +8,6 @@ export const getTariffsDocuments = (
     process.env.REACT_APP_BASE_URL +
     `/${mandant}/calculate/tariffs/additional/${tariffId}/documents`,
   );
-
   export const getRiskCehckDocuments = (
     mandant: string,
     riskCheckId: string
