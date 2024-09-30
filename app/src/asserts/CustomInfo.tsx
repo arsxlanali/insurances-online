@@ -10,7 +10,7 @@ interface CustomInfoIconProps extends Omit<SvgIconProps, 'fill'> {
 const CustomInfoIcon: React.FC<CustomInfoIconProps> = (props) => {
   const { fill, ...rest } = props;
   const theme = useTheme();
-  // Calculate fill color based on the provided fill prop
+  // Calculate fill color based on the provided fill
   const fillColor = typeof fill === 'function' ? fill(theme) : fill || 'white';
 
   return (
